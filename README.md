@@ -4,7 +4,6 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.12.0-02569B?style=flat&logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-3.12.0-0175C2?style=flat&logo=dart)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat)
 ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-lightgrey?style=flat)
 
 ---
@@ -163,10 +162,5 @@ flutter build ios --release
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
 
 <p align="center">Made with ❤️ using Flutter</p>
