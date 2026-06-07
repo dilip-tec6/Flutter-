@@ -8,15 +8,6 @@
 
 ---
 
-## ⚠️ Image Notice
-
-> **sincerely apologize!**
-> The product images currently displayed in the app are **random placeholder images** from [picsum.photos](https://picsum.photos) and **do not represent the actual products** listed.
-> We are actively working on replacing all images with original, official product photos in the next update.
-> Thank you for your patience and understanding. 🙏
-
----
-
 ## 📱 Screenshots
 
 <img width="614" height="946" alt="Screenshot 2026-06-07 013304" src="https://github.com/user-attachments/assets/3693c41e-1694-4858-b943-4d4aab8356bb" />
