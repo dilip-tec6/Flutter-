@@ -1,4 +1,4 @@
-<img width="871" height="957" alt="Screenshot 2026-06-07 013213" src="https://github.com/user-attachments/assets/622b87d0-5891-466b-9d58-1f2d4b286283" /># 🛍️ Gadgets Store
+# 🛍️ Gadgets Store
 
 > A modern, premium Flutter e-commerce app for browsing and discovering the latest tech gadgets.
 
